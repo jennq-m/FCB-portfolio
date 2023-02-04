@@ -1,0 +1,22 @@
+pwd = present working directoy
+LS = list of files
+cd = change directory
+mkdir = command to make a directory
+exit = 
+
+SUBLIME (html)
+ctrl slash = comments in sublime
+tags:
+*press "tab" para mag auto complete*
+p = to create paragraph
+img = for images
+a = for hyperlink
+h1, h2, h3 = heading
+fonts.google.com
+
+SUBLIME (css)
+
+(*) asterisk = refers to "all"
+#profile = for editing the image
+body = background
+vh = viewport height
